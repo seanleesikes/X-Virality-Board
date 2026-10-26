@@ -1,158 +1,81 @@
 {
-  "title": "Daily X narrative digest — 2026-10-25",
-  "date": "2026-10-25",
+  "title": "Daily X narrative digest — 2026-10-26",
+  "date": "2026-10-26",
   "timezone": "America/Chicago",
-  "updated": "2026-10-25T21:42:39-05:00",
+  "updated": "2026-10-26T06:09:09-05:00",
   "brand_title": "Grok Bot X Virality Score",
   "brand_handle": "@Seanleesikes",
   "hits": [
-    {
-      "handle": "@TuckerPoodleMA",
-      "name": "TuckerPoodleMA",
-      "display_name": "TuckerPoodleMA",
-      "url": "https://x.com/TuckerPoodleMA/status/2113351704234303786",
-      "status_url": "https://x.com/TuckerPoodleMA/status/2113351704234303786",
-      "views": 278349,
-      "highlight": true,
-      "text": "Apparently fish pedicures are a thing down here",
-      "hook": "Apparently fish pedicures are a thing down here"
-    },
-    {
-      "handle": "@TuckerPoodleMA",
-      "name": "TuckerPoodleMA",
-      "display_name": "TuckerPoodleMA",
-      "url": "https://x.com/TuckerPoodleMA/status/2112481187411427621",
-      "status_url": "https://x.com/TuckerPoodleMA/status/2112481187411427621",
-      "views": 31009,
-      "highlight": true,
-      "text": "It's my birthday!!! Made it through another year!!!!",
-      "hook": "It's my birthday!!! Made it through another year!!!!"
-    },
-    {
-      "handle": "@TuckerPoodleMA",
-      "name": "TuckerPoodleMA",
-      "display_name": "TuckerPoodleMA",
-      "url": "https://x.com/TuckerPoodleMA/status/2114051934915105190",
-      "status_url": "https://x.com/TuckerPoodleMA/status/2114051934915105190",
-      "views": 29007,
-      "highlight": true,
-      "text": "My husband was leaf blowing and got hit by a pickup truck!",
-      "hook": "My husband was leaf blowing and got hit by a pickup truck!"
-    },
-    {
-      "handle": "@TuckerPoodleMA",
-      "name": "TuckerPoodleMA",
-      "display_name": "TuckerPoodleMA",
-      "url": "https://x.com/TuckerPoodleMA/status/2114105105112879427",
-      "status_url": "https://x.com/TuckerPoodleMA/status/2114105105112879427",
-      "views": 11611,
-      "highlight": true,
-      "text": "So my husband is ok.",
-      "hook": "So my husband is ok."
-    },
     {
       "handle": "@FarmerCrafted",
       "name": "FarmerCrafted",
       "display_name": "FarmerCrafted",
       "url": "https://x.com/FarmerCrafted/status/2114325834383135167",
       "status_url": "https://x.com/FarmerCrafted/status/2114325834383135167",
-      "views": 11067,
+      "views": 17289,
       "highlight": true,
-      "text": "Good Sunday morning, friends. Enjoy some baby goats",
-      "hook": "Good Sunday morning, friends. Enjoy some baby goats"
-    },
-    {
-      "handle": "@epicgardening",
-      "name": "epicgardening",
-      "display_name": "epicgardening",
-      "url": "https://x.com/epicgardening/status/2113673927742386281",
-      "status_url": "https://x.com/epicgardening/status/2113673927742386281",
-      "views": 7293,
-      "highlight": false,
-      "text": "You don't need a garden bed to grow potatoes.",
-      "hook": "You don't need a garden bed to grow potatoes."
-    },
-    {
-      "handle": "@epicgardening",
-      "name": "epicgardening",
-      "display_name": "epicgardening",
-      "url": "https://x.com/epicgardening/status/2112958190098817527",
-      "status_url": "https://x.com/epicgardening/status/2112958190098817527",
-      "views": 5749,
-      "highlight": false,
-      "text": "Ever wonder how much rain your roof wastes?",
-      "hook": "Ever wonder how much rain your roof wastes?"
-    },
-    {
-      "handle": "@FarmerCrafted",
-      "name": "FarmerCrafted",
-      "display_name": "FarmerCrafted",
-      "url": "https://x.com/FarmerCrafted/status/2112353768113045984",
-      "status_url": "https://x.com/FarmerCrafted/status/2112353768113045984",
-      "views": 5680,
-      "highlight": false,
-      "text": "Have you ever seen a baby Flamingo?",
-      "hook": "Have you ever seen a baby Flamingo?"
-    },
-    {
-      "handle": "@FarmerCrafted",
-      "name": "FarmerCrafted",
-      "display_name": "FarmerCrafted",
-      "url": "https://x.com/FarmerCrafted/status/2114017685885345945",
-      "status_url": "https://x.com/FarmerCrafted/status/2114017685885345945",
-      "views": 5059,
-      "highlight": false,
-      "text": "You can make food however YOU want to",
-      "hook": "You can make food however YOU want to"
+      "text": "Good Sunday morning, friends 🌞 \nEnjoy some baby goats and have a beautiful day!",
+      "hook": "Good Sunday morning, friends 🌞 \nEnjoy some baby goats and have a beautiful day!"
     }
   ],
   "virals": [],
   "outsiders": [],
   "patterns": [
-    "short real-life moments + video",
-    "animals (baby goats, flamingo, chickens)",
-    "one-line garden rule busters",
-    "'Good [day] morning, friends' greetings",
-    "story follow-ups"
+    "animal video + 'Good morning, friends'",
+    "pet personality one-liners",
+    "story follow-ups keep people coming back",
+    "quiet Sunday: few new posts"
   ],
   "no_hits": [
     {
-      "handle": "@IevaSoulFood",
-      "reason": "Highest original reached 4,992 views.",
-      "max_views": 4992
+      "handle": "@TuckerPoodleMA",
+      "reason": "Highest original reached 2,610 views.",
+      "max_views": 2610
     },
     {
       "handle": "@farmer_ash_",
-      "reason": "Highest original reached 2,452 views.",
-      "max_views": 2452
+      "reason": "Highest original reached 803 views.",
+      "max_views": 803
+    },
+    {
+      "handle": "@IevaSoulFood",
+      "reason": "No original posts in window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@epicgardening",
+      "reason": "No original posts in window.",
+      "max_views": 0
     }
   ],
   "virals_narrative": "Short outsider synthesis goes here.",
   "narrative_synthesis": "Short outsider synthesis goes here.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 9,
+  "hits_count": 1,
   "outsiders_count": 0,
   "previous_day": {
-    "date": "2026-10-24",
-    "hits_count": 0,
-    "total_views": 0,
+    "date": "2026-10-25",
+    "hits_count": 9,
+    "total_views": 384824,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-10-25",
+    "as_of": "2026-10-26",
     "tracking_start": "2026-10-25",
     "days_included": [
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
     ],
     "month_days_included": [
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
     ],
     "week": {
-      "label": "Rolling week · Oct 25–Oct 25",
+      "label": "Rolling week · Oct 25–Oct 26",
       "range": [
         "2026-10-25",
-        "2026-10-25"
+        "2026-10-26"
       ],
       "entries": [
         {
@@ -168,9 +91,9 @@
           "handle": "@FarmerCrafted",
           "name": "FarmerCrafted",
           "hits": 3,
-          "days": 1,
-          "views": 21806,
-          "best": 11067,
+          "days": 2,
+          "views": 28028,
+          "best": 17289,
           "best_url": "https://x.com/FarmerCrafted/status/2114325834383135167"
         },
         {
@@ -188,7 +111,7 @@
       "label": "October 2026 · from Oct 25",
       "range": [
         "2026-10-25",
-        "2026-10-25"
+        "2026-10-26"
       ],
       "entries": [
         {
@@ -204,9 +127,9 @@
           "handle": "@FarmerCrafted",
           "name": "FarmerCrafted",
           "hits": 3,
-          "days": 1,
-          "views": 21806,
-          "best": 11067,
+          "days": 2,
+          "views": 28028,
+          "best": 17289,
           "best_url": "https://x.com/FarmerCrafted/status/2114325834383135167"
         },
         {
